@@ -52,4 +52,4 @@ class RadixSortDoubleWithBatcherStlParallel : public ppc::core::Task {
   std::vector<double> array;
   std::vector<double> result;
 };
-}  // namespace SmirnovPavelTbb
+}  // namespace SmirnovPavelStl

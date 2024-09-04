@@ -216,4 +216,4 @@ std::vector<double> randomVector(int size, double min, double max) {
 
   return randVec;
 }
-}  // namespace SmirnovPavelTbb
+}  // namespace SmirnovPavelStl
