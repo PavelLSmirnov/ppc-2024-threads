@@ -1,7 +1,7 @@
 // Copyright 2024 Smirnov Pavel
 #include "stl/smirnov_p_sort_double_batcher/include/ops_stl.hpp"
 
-namespace SmirnovPavelTbb {
+namespace SmirnovPavelStl {
 
 constexpr int sizeDouble = sizeof(double);
 
